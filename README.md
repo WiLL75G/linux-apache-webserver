@@ -29,5 +29,4 @@ This project demonstrates a **working Apache web server** on Linux with a **port
 
 ---
 
-**Author:** Gokah William – [GitHub](https://github.com/wgokahp)
-
+**Author:** Gokah William 
