@@ -1,6 +1,6 @@
 #  Apache Web Server Portfolio
 
-This project demonstrates a **working Apache web server** on Linux with a **portfolio-ready page**.
+This project demonstrates a **working Apache web server** on Fedora with a **portfolio-ready page**.
 
 ---
 
@@ -14,7 +14,7 @@ This project demonstrates a **working Apache web server** on Linux with a **port
 ## How to View
 
 1. Open `index.html` in a browser  
-   or run Apache on Linux and go to `http://localhost`  
+   or run Apache on Fedora and go to `http://localhost`  
 
 2. Screenshots show the installation and verification steps.
 
